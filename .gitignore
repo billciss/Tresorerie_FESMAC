@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Flask
+instance/
+.webassets-cache
+
+# Virtual Environments
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
